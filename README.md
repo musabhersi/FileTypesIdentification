@@ -37,3 +37,4 @@ Code of the directory scanning filetypeidentifier.py
 
 ## Directory of scanned files (Creates png Copies, Original Files Remain Intact):
 
+![scanned_dir](https://user-images.githubusercontent.com/47150418/118361770-be6c2100-b584-11eb-8980-3c607c179c09.png)
