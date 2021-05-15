@@ -20,9 +20,9 @@ Code of the directory scanning filetypeidentifier.py
 
 ## directroy we want to scan.
 
-![dir_of_scanned_files_before_model_is_run](https://user-images.githubusercontent.com/47150418/118359251-8f50b200-b57a-11eb-94e0-8ac091411f7f.png)
 
 
+![dir_of_scanned_files_before_model_is_run](https://user-images.githubusercontent.com/47150418/118359285-ac858080-b57a-11eb-9a80-33b063919264.png)
 
 ## confusion matrix
 
@@ -32,8 +32,8 @@ Code of the directory scanning filetypeidentifier.py
 
 ## dir of scanned files for identification 
 
+![dir_of_scanned_files_before_model_is_run](https://user-images.githubusercontent.com/47150418/118359251-8f50b200-b57a-11eb-94e0-8ac091411f7f.png)
 
-![dir_of_scanned_files_before_model_is_run](https://user-images.githubusercontent.com/47150418/118359285-ac858080-b57a-11eb-9a80-33b063919264.png)
 
 
 ## Directory of scanned files (Creates png Copies, Original Files Remain Intact):
