@@ -13,8 +13,7 @@ Code of the directory scanning filetypeidentifier.py
 
 
 ## accuracy report
-
-![accuracy](https://user-images.githubusercontent.com/47150418/118359072-9f1bc680-b579-11eb-9cd8-d4b0f8291b9b.png)
+![confusion_matrix_without_normalisation_and_normalised](https://user-images.githubusercontent.com/47150418/118359160-1a7d7800-b57a-11eb-92a4-318f67804132.png)
 
 
 ## directroy we want to scan.
