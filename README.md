@@ -13,7 +13,7 @@ Code of the directory scanning filetypeidentifier.py
 
 
 ## accuracy report
-<p>Accuracy Report</img></p>
+
 ![accuracy](https://user-images.githubusercontent.com/47150418/118359072-9f1bc680-b579-11eb-9cd8-d4b0f8291b9b.png)
 
 
