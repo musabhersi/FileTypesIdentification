@@ -32,9 +32,8 @@ Code of the directory scanning filetypeidentifier.py
 
 ## dir of scanned files for identification 
 
-![dir_of_scanned_files_before_model_is_run](https://user-images.githubusercontent.com/47150418/118359251-8f50b200-b57a-11eb-94e0-8ac091411f7f.png)
 
-
+![dir_to_scan](https://user-images.githubusercontent.com/47150418/118359112-d5f1dc80-b579-11eb-966d-dcca3cd394cc.png)
 
 ## Directory of scanned files (Creates png Copies, Original Files Remain Intact):
-![dir_to_scan](https://user-images.githubusercontent.com/47150418/118359112-d5f1dc80-b579-11eb-966d-dcca3cd394cc.png)
+
