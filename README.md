@@ -3,9 +3,7 @@
 
 ## This is how the application works
 
-
-
-https://user-images.githubusercontent.com/47150418/162061244-62e532a9-7f64-4eff-815c-3cfc950d2dee.mov
+https://user-images.githubusercontent.com/47150418/162068436-7e2aa3fc-9fbb-4b44-a0f5-7eea6c65ea12.mp4
 
 
 ## Code:
