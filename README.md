@@ -1,6 +1,13 @@
 
 # Directory Scan & Conversion of Files to PNG
 
+## This is how the application works
+
+
+
+https://user-images.githubusercontent.com/47150418/162061244-62e532a9-7f64-4eff-815c-3cfc950d2dee.mov
+
+
 ## Code:
 Code of the directory scanning filetypeidentifier.py
 ![code_scanning](https://user-images.githubusercontent.com/47150418/118359008-451b0100-b579-11eb-8f3e-c91f41e58124.png)
