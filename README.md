@@ -1,6 +1,8 @@
 
 # Directory Scan & Conversion of Files to PNG
 
+use this command to run the program 'python .\filetypeidentifier.py -d ./originalFilesForTesting'
+
 ## This is how the application works
 
 https://user-images.githubusercontent.com/47150418/162068436-7e2aa3fc-9fbb-4b44-a0f5-7eea6c65ea12.mp4
